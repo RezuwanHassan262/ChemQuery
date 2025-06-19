@@ -17,7 +17,7 @@ Hosted live on [Hugging Face Spaces](https://huggingface.co/spaces/Rezuwan/ChemQ
 
  [Try ChemQuery on Hugging Face Spaces](https://huggingface.co/spaces/Rezuwan/ChemQuery)
 
-![ChemQuery Screenshot](https://raw.githubusercontent.com/RezuwanHassan262/ChemQuery/main/images/app_screenshot.PNG) 
+![ChemQuery Screenshot](https://raw.githubusercontent.com/RezuwanHassan262/ChemQuery/refs/heads/main/images/app_screenshot.PNG) 
 
 ---
 
