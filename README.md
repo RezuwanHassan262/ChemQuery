@@ -79,4 +79,4 @@ If you find this tool helpful, please:
 > _“ChemQuery is a free and open-source chemistry learning tool built as part of an educational initiative to support students worldwide.”_
 
 
-Together, let's make chemistry fun and accessible for everyone! 🧪🌍
+Together, let's make chemistry fun and accessible for everyone! 🌍🧪✨
