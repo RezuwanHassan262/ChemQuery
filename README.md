@@ -76,6 +76,7 @@ If you find this tool helpful, please:
 - ⭐ Star the GitHub repo: [ChemQuery on GitHub](https://github.com/RezuwanHassan262/ChemQuery)
 
 
-   “ChemQuery is a free and open-source chemistry learning tool built as part of an educational initiative to support students worldwide.”
+> _“ChemQuery is a free and open-source chemistry learning tool built as part of an educational initiative to support students worldwide.”_
+
 
 Together, let's make chemistry fun and accessible for everyone! 🧪🌍
