@@ -2,7 +2,7 @@
 
 [**ChemQuery**](https://huggingface.co/spaces/Rezuwan/ChemQuery) is a free, student-focused chemistry assistant that lets you explore molecular structures by simply entering a chemical name.
 
-Powered by [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and [PubChemPy](https://github.com/mcs07/pubchempy), this app gives you:
+Powered by [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and [PubChemPy](https://pypi.org/project/PubChemPy/), this app gives you:
 - IUPAC name
 - Synonyms
 - Molecular formula and weights
@@ -17,11 +17,7 @@ Hosted live on [Hugging Face Spaces](https://huggingface.co/spaces/Rezuwan/ChemQ
 
  [Try ChemQuery on Hugging Face Spaces](https://huggingface.co/spaces/Rezuwan/ChemQuery)
 
----
-
-## Screenshot
-
-![ChemQuery Screenshot](screenshot.png)
+![ChemQuery Screenshot](https://raw.githubusercontent.com/RezuwanHassan262/ChemQuery/main/images/app_screenshot.PNG) 
 
 ---
 
