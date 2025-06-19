@@ -1,6 +1,6 @@
 # ChemQuery: Learn Molecules Easily
 
-[**ChemQuery**](https://huggingface.co/spaces/Rezuwan/ChemQuery) is a free, student-focused chemistry assistant that lets you explore molecular structures by simply entering a chemical name.
+[**ChemQuery**](https://huggingface.co/spaces/Rezuwan/ChemQuery) is a free, student-focused chemistry assistant tool that lets you explore molecular structures by simply entering a chemical name.
 
 Powered by [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and [PubChemPy](https://pypi.org/project/PubChemPy/), this app gives you:
 - IUPAC name
@@ -64,3 +64,18 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+---
+
+## Support ChemQuery
+
+If you find this tool helpful, please:
+
+- ❤️ Give it a like on [Hugging Face Spaces](https://huggingface.co/spaces/Rezuwan/ChemQuery)
+- 🔁 Share it with your friends, classmates, or educators
+- ⭐ Star the GitHub repo: [ChemQuery on GitHub](https://github.com/RezuwanHassan262/ChemQuery)
+
+
+   “ChemQuery is a free and open-source chemistry learning tool built as part of an educational initiative to support students worldwide.”
+
+Together, let's make chemistry fun and accessible for everyone! 🧪🌍
