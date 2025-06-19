@@ -1,0 +1,21 @@
+IUPAC Name: methane
+Common Name: methane
+Synonyms: methane, Methyl hydride, Marsh gas, Biogas
+Formula: CH4
+Molecular Weight: 16.043
+Exact Molecular Weight: 16.0313001276
+Isotope Atom Count: 0
+Charge: 0
+
+Atoms:
+  Atom 1: Element = C
+  Atom 2: Element = H
+  Atom 3: Element = H
+  Atom 4: Element = H
+  Atom 5: Element = H
+
+Bonds:
+  Bond between C and H, Order: 1
+  Bond between C and H, Order: 1
+  Bond between C and H, Order: 1
+  Bond between C and H, Order: 1
